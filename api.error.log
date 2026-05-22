@@ -1,0 +1,12 @@
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started parent process [760952]
+INFO:     Started server process [760963]
+INFO:     Waiting for application startup.
+2026-05-15 18:52:31,596 - server - INFO - PropertySearch API started successfully
+INFO:     Started server process [760964]
+INFO:     Waiting for application startup.
+2026-05-15 18:52:31,615 - server - INFO - PropertySearch API started successfully
+2026-05-15 18:52:31,957 - server - INFO - Database indexes created
+INFO:     Application startup complete.
+2026-05-15 18:52:31,957 - server - INFO - Database indexes created
+INFO:     Application startup complete.
